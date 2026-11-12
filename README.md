@@ -14,7 +14,7 @@
 
 ## 🚀 Featured Projects
 
-### 📄 DocBot: AI Document Q&A Chatbot (RAG) · [Live Demo](https://shruti-docbot.streamlit.app/)
+### 📄 [DocBot: AI Document Q&A Chatbot (RAG)](https://github.com/shruti041/docbot) · [Live Demo](https://shruti-docbot.streamlit.app/)
 Ask questions about any uploaded PDF. Answers come only from the document, with source passages shown, and "not found" instead of guessing.
 - Hybrid retrieval: semantic search + BM25 + section-reference lookup
 - Voice input and spoken answers in English and Hindi
