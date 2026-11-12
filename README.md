@@ -12,6 +12,14 @@
 
 ---
 
+## 👩‍💻 About Me
+
+I'm a recent B.Tech graduate in Artificial Intelligence and Machine Learning who enjoys taking a model all the way from messy raw data to something people can actually use. That means cleaning data, engineering features, training and comparing models, and then shipping them as live apps.
+
+Lately I've been focused on **RAG and LLM applications** that stay grounded in their source documents and say "not found" instead of guessing. I like building things that are practical, explainable, and accessible, which is why DocBot supports voice input and answers in both English and Hindi.
+
+---
+
 ## 🚀 Featured Projects
 
 ### 📄 [DocBot: AI Document Q&A Chatbot (RAG)](https://github.com/shruti041/docbot) · [Live Demo](https://shruti-docbot.streamlit.app/)
@@ -58,17 +66,12 @@ End-to-end ML pipeline. Gradient Boosting reached **89.12% accuracy**, served in
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shruti041&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti041&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Currently
-- 🔍 Looking for an entry-level **AI/ML Engineer** role
-- 🌱 Going deeper into RAG evaluation and LLM application design
+
+- 💼 Looking for an entry-level **AI/ML Engineer** role (Delhi, open to relocation)
+- 🔭 Building RAG and LLM applications with LangChain and the Gemini API
+- 🌱 Strengthening my skills in NLP, deep learning, and model deployment
+- 💬 Happy to chat about RAG, ML pipelines, or shipping models as Streamlit apps
+- 📫 Reach me at **sshrutii.2019@gmail.com**
 
 <p align="center"><i>Open to collaborate on AI/ML projects. Feel free to reach out!</i></p>
