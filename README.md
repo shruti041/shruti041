@@ -7,14 +7,14 @@
 
 <p align="center">
   <a href="mailto:sshrutii.2019@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/shruti-27a54a3b3/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📄 [DocBot: AI Document Q&A Chatbot (RAG)](https://github.com/shruti041/YOUR-DOCBOT-REPO) · [Live Demo](YOUR-DEMO-LINK)
+### 📄 [DocBot: AI Document Q&A Chatbot (RAG)](https://github.com/shruti041/YOUR-DOCBOT-REPO) · [Live Demo]([YOUR-DEMO-LINK](https://shruti-docbot.streamlit.app/))
 Ask questions about any uploaded PDF. Answers come only from the document, with source passages shown, and "not found" instead of guessing.
 - Hybrid retrieval: semantic search + BM25 + section-reference lookup
 - Voice input and spoken answers in English and Hindi
@@ -22,12 +22,12 @@ Ask questions about any uploaded PDF. Answers come only from the document, with 
 
 `Python` `LangChain` `Gemini API` `Hugging Face` `BM25` `Streamlit`
 
-### 🎵 [Music Genre Classification](https://github.com/shruti041/YOUR-MUSIC-REPO)
+### 🎵 [Music Genre Classification]([https://github.com/shruti041/YOUR-MUSIC-REPO](https://github.com/shruti041/Music-Genre-Classification))
 Deep neural network on MFCC audio features, **89% validation accuracy**, with real-time genre prediction on uploaded audio.
 
 `Python` `TensorFlow/Keras` `NumPy` `Streamlit`
 
-### 👥 [HR Analytics: Employee Attrition Prediction](https://github.com/shruti041/YOUR-HR-REPO)
+### 👥 [HR Analytics: Employee Attrition Prediction]([https://github.com/shruti041/YOUR-HR-REPO](https://github.com/shruti041/Employee_attrition_prediction))
 End-to-end ML pipeline. Gradient Boosting reached **89.12% accuracy**, served in a Streamlit app with probability scores, Plotly charts, and retention recommendations.
 
 `Python` `Pandas` `Scikit-learn` `Plotly` `Streamlit`
