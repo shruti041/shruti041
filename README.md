@@ -30,11 +30,6 @@ Ask questions about any uploaded PDF. Answers come only from the document, with 
 
 `Python` `LangChain` `Gemini API` `Hugging Face` `BM25` `Streamlit`
 
-### 🎵 [Music Genre Classification](https://github.com/shruti041/Music-Genre-Classification)
-Deep neural network on MFCC audio features, **89% validation accuracy**, with real-time genre prediction on uploaded audio.
-
-`Python` `TensorFlow/Keras` `NumPy` `Streamlit`
-
 ### 👥 [HR Analytics: Employee Attrition Prediction](https://github.com/shruti041/Employee_attrition_prediction)
 End-to-end ML pipeline. Gradient Boosting reached **89.12% accuracy**, served in a Streamlit app with probability scores, Plotly charts, and retention recommendations.
 
