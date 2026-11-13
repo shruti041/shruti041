@@ -30,10 +30,15 @@ Ask questions about any uploaded PDF. Answers come only from the document, with 
 
 `Python` `LangChain` `Gemini API` `Hugging Face` `BM25` `Streamlit`
 
-### 👥 [HR Analytics: Employee Attrition Prediction](https://github.com/shruti041/Employee_attrition_prediction)
-End-to-end ML pipeline. Gradient Boosting reached **89.12% accuracy**, served in a Streamlit app with probability scores, Plotly charts, and retention recommendations.
+### 👥 [HR Analytics: Employee Attrition Prediction](https://github.com/shruti041/Employee_attrition_prediction) · [Live Demo](https://attritionpredict.streamlit.app/)
+Predicts which employees are likely to leave, so HR can step in early. Upload HR data and every employee is scored and ranked by risk. You can then open any employee to see what drove their score and get retention recommendations.
+- Compared 9 models with repeated stratified 5-fold cross-validation. **Logistic Regression** won with **88.3% accuracy** and found **40% more at-risk employees** than Gradient Boosting.
+- Forward feature selection cut the app from 30 questions to **16** with no loss in accuracy
+- Explainable predictions: shows which answers raised or lowered each employee's risk
+- Shows that the 95%+ scores often claimed on this dataset come from data leakage (SMOTE before the split gives 98.4%; tested correctly, it's 85.8%)
+- Streamlit app with Team and Individual pages, CSV upload and download, and light and dark themes
 
-`Python` `Pandas` `Scikit-learn` `Plotly` `Streamlit`
+`Python` `Pandas` `Scikit-learn` `Streamlit`
 
 ---
 
